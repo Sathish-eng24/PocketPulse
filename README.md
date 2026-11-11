@@ -19,7 +19,7 @@
 * **Weekly & Monthly Spending Summaries:** Tracks both your last 7 days of spending and total monthly outflow, triggering automatic visual alerts when variable expenses exceed your monthly budget limit.
 * **Recurring Subscriptions & EMI Tracker:** Dedicated manager for fixed monthly commitments (EMIs, rent, OTT subscriptions, mobile plans) that automatically deducts from your disposable balance.
 * **Savings Goal & Safe Daily Spending Limit Calculator:** Locks away your target monthly savings first and divides the remaining spendable balance by the exact number of days left until your next salary or pocket money day:
-  $$\text{Safe Daily Limit} = \frac{\text{Total Income} - \text{Variable Expenses} - \text{EMIs \& Subscriptions} - \text{Savings Goal}}{\text{Days Until Next Salary}}$$
+  $$\text{Safe Daily Limit} = \frac{\text{Total Income} - \text{Variable Expenses} - \text{EMIs \and Subscriptions} - \text{Savings Goal}}{\text{Days Until Next Salary}}$$
 * **Custom Canvas Visualizations:**
   * **Category-Wise Donut Pie Chart:** Displays exact spending percentages per category.
   * **Monthly Spending Bar Graph:** Compares monthly totals against a dashed horizontal budget limit line.
