@@ -74,9 +74,3 @@ PocketPulse/
    * **Sidebar Quick Actions:** Click **🎲 +5 Random Spends** to generate test data, or use **📂 Import CSV** / **💾 Export CSV** to back up your ledger.
 
 ---
-
-## 👤 Author
-
-**Mallidi Mohan Siva Venkata Rama Reddy**  
-*Indian Institute of Technology Goa*  
-GitHub: [@mallidimohan41297](https://github.com/mallidimohan41297)
