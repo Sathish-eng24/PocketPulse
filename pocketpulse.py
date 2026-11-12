@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 # COLOR PALETTE (Pure White Primary + 5 Semantic Sub-Colors)
 # ==============================================================================
 COLORS = {
-    "WHITE": "#FFFFFF",        # Main background & cards
+    "WHITE": "#FFFFFF",        # Main background & card
     "SIDEBAR_BG": "#F8FAFC",   # Clean light sidebar background
     "BORDER": "#E2E8F0",       # Card borders and dividers
     "TEXT_DARK": "#0F172A",    # Main headings and numbers
